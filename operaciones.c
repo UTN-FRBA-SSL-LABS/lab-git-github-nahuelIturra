@@ -14,7 +14,8 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 // recibe dos numeros y los multiplica
-int multiplicar(int a, int b) {
+//La función multiplicar ahora recibe números con coma
+int multiplicar(const float a, const float b) {
     return a * b;
 }
 
