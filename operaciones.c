@@ -22,5 +22,5 @@ int multiplicar(const float a, const float b) {
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
-    return (n % 2) == 0;
+    return (n % 2) == 0; /* version main */
 }
